@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+// @see https://github.com/ethereum/solc-bin/tree/gh-pages/bin for solidity compiler versions
+{
+    "editor.rulers": [
+        90
+    ],
+    "eslint.enable": true,
+    "solidity.enabledAsYouTypeCompilationErrorCheck": true,
+    "solidity.linter": "solhint",
+    "cSpell.words": [
+        "solhint",
+        "styleguide"
+    ]
+}

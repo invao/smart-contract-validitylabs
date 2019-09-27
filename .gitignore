@@ -1,0 +1,11 @@
+.idea
+.eslintcache
+.DS_Store
+node_modules
+/bin
+/build
+/dist
+/coverage*
+/db
+/config/.secrets.json
+/migrations_null
