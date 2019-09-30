@@ -6,7 +6,7 @@
   "repository": "https://gitlab.com/validitylabs/invao/ico-invao",
   "main": "./tools/server/index.js",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "GPLv3",
   "engines": {
     "node": ">8.10.0"
   },
